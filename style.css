@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'genshin'; /*a name to be used later*/
+    src: url('ja-jp.ttf'); /*URL to font*/
+}
+
 body {
 font-family: 'Nunito', sans-serif;
 }
